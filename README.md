@@ -94,4 +94,10 @@ La West concentre nos plus gros enjeux.
 L’enjeu stratégique est simple : **sécuriser ce qui marche, diversifier pour réduire la dépendance, et trancher sur les zones qui consomment du cash sans créer de valeur.**
 
 ---
+🛠️ Zone Outils & Méthodo
+🔗 Environnement
 
+Google Colab → pour l’exécution et le partage simple.
+DuckDB → pour requêter directement en SQL dans Python.
+Ptyhon Pandas → pour manipuler les DataFrames et exporter.
+Matplotlib / Seaborn → pour visualiser rapidement les tendances (CA, marge, progression).
